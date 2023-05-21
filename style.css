@@ -1,0 +1,27 @@
+/* Code editor layout */
+
+.code-editor {
+    width: 100%;
+    height: 500px;
+    background-color: purple;
+  }
+  
+  .code-editor .header {
+    background-color: blue
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .code-editor .content {
+    padding: 10px;
+  }
+  
+  .code-editor .content .code {
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
